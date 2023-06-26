@@ -1,0 +1,18 @@
+html {
+
+}
+
+body {
+
+}
+
+.block {
+    height: 150px;
+    width: 150px;
+    background: linear-gradient(40deg, #8ee9ce, #af3ca0);
+    border-radius: 20px;
+    border: 3px solid #566a6d;
+    
+    
+    transform: rotate(-30deg) translateX(10vh);
+}

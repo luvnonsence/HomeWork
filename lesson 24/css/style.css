@@ -1,0 +1,25 @@
+html {
+
+}
+
+body {
+
+}
+
+.block {
+    height: 100px;
+
+    /* Градиент */
+    /* background: linear-gradient(40deg, #8ee9ce, #af3ca0); */
+
+    /* Жопка коржика */
+    background: center/20% url(https://sun9-4.userapi.com/impg/eN0ff3HKUW9id55xTFRaHKJGA00K8KJkOzOuLg/j-dcVUab9a8.jpg?size=781x781&quality=96&sign=30c7d6046455028c87940733bd6cdf6a&type=album);
+    /* background-size: 20%; */
+    border-radius: 20px;
+    border: 3px solid #566a6d;
+
+    position: fixed;
+    bottom: 100px;
+    right: 50px;
+    left: 50vw;
+}
