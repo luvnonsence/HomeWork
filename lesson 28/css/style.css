@@ -1,0 +1,28 @@
+html {
+    background: linear-gradient(15deg, #2e3dc2, #dbb91f);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+}
+
+body {
+
+}
+
+.flexbox {
+    width: 60%;
+    height: 10%;
+    margin: 0 auto;
+    border-radius: 20px;
+    opacity: 40%;
+    background: linear-gradient(-15deg, #ffffff, #acacac);
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.flexbox__item {
+    padding: 15px 60px;
+    background: #8f8f8f;
+    border-radius: 20px;
+}
