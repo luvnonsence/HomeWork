@@ -1,0 +1,23 @@
+html {
+    background-color: #555;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.5rem;
+    color: #fff;
+}
+
+body {
+
+}
+
+.menu {
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu__item {
+    padding: 15px 40px;
+}
+
+.menu__item:hover:first-child {
+    color: red;
+}
